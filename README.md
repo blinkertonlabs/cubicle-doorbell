@@ -1,9 +1,9 @@
 # Cubicle Doorbell
 A lighted doorbell that will blink when anyone presses the doorbell button.
 
-If I'm wearing headphones while working in my cubicle, it can be difficult for colleages to get my attention.  
+If I'm wearing headphones while working in my cubicle, it can be difficult for colleagues to get my attention.  
 The cubicle doorbell solves this probelem by blinking a string of USB powered LEDs when a doorbell is pressed.  
-The doorbell button will be mounted on the outside wall of the cubicle, so celleages can easily walk up and press it when they require my attention.  For some extra flair, a BlinkM was was added inside of the doorbell button, then programmed to be continiously changing between colors.
+The doorbell button will be mounted on the outside wall of the cubicle, so colleagues can easily walk up and press it when they require my attention.  For some extra flair, a BlinkM was was added inside of the doorbell button, then programmed to be continiously changing between colors.
   
   [Instagram link](https://www.instagram.com/p/BshIgUKBmaf/?utm_source=ig_web_button_share_sheet)  
   
